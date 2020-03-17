@@ -1,0 +1,12 @@
+/* Header */
+.large-header {
+	height: 1080px;
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+	background: url(../img/demo-1-bg.jpg);
+	background-size: cover;
+	background-position: center center;
+	z-index: 1;
+}
+
